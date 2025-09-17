@@ -1,4 +1,4 @@
-# 🚁 Trajectory Smoothing for Crazyflie 2.0 using Bézier Curves
+# 🛰 Trajectory Smoothing for Crazyflie 2.0 using Bézier Curves
 
 ## 📌 Overview
 This project focuses on implementing an efficient **trajectory smoothing method** for the **Crazyflie 2.0 nano-quadcopter**, aiming to optimize its movement by eliminating angular points that prevent continuous acceleration. The result is a smoother and safer navigation path.
